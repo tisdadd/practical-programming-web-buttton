@@ -1,3 +1,3 @@
-# Practical Programming Web Display Code
+# Practical Programming Web Interactive Button
 
-A repository for the Practical Programming tutorial of adsittech.com, web page display second chapter.
+A repository for the Practical Programming tutorial of adsittech.com, web button chapter.
